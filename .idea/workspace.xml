@@ -2,144 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67b3b035-56ca-452f-8d7f-07fd8658480c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/default.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/FontAwesome.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/bordered-pulled.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/core.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/fixed-width.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/font-awesome.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/icons.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/larger.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/list.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/mixins.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/path.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/rotated-flipped.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/spinning.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/stacked.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/less/variables.less" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_bordered-pulled.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_core.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_fixed-width.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_icons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_larger.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_list.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_mixins.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_path.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_rotated-flipped.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_spinning.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_stacked.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/font-awesome/scss/font-awesome.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/css/animation.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-codes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-embedded.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-ie7-codes.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello-ie7.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/css/fontello.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fontello/font/fontello.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-bold-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-italic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/librebaskerville/librebaskerville-regular-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Bold-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Italic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Light-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-LightItalic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Regular-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-Semibold-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/layout.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/media-queries.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/header-background.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/overlay-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/canadian-wanderlust.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/fury-fighting-gear.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/original-thai-food.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/resume-website.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/portfolio/smirkspace.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/profilepic.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/images/testimonials-bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/init.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-1.10.2.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-migrate-1.2.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.fittext.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery.flexslider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/magnific-popup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/modernizr.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/waypoints.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/resumeData.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/About.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/Contact.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/Footer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/Header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/Portfolio.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/Resume.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Components/Testimonials.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" afterPath="$PROJECT_DIR$/public/manifest.json" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
       <change beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" afterPath="$PROJECT_DIR$/src/App.test.js" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -166,9 +30,18 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="180">
+              <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+              <folding>
+                <marker date="1588835741686" expanded="true" signature="1154:1555" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1206:1549" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1257:1549" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1311:1549" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1371:1549" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1437:1549" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1490:1549" ph="..." />
+                <marker date="1588835741686" expanded="true" signature="1542:1549" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,8 +59,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="126">
+              <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -201,6 +74,8 @@
       <find>index</find>
       <find>I'm</find>
       <find>resumeData.json</find>
+      <find>resumeData</find>
+      <find>PUBLIC_URL</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -305,6 +180,11 @@
               <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -359,17 +239,17 @@
       <updated>1588819637102</updated>
       <workItem from="1588819638599" duration="4383000" />
       <workItem from="1588825581506" duration="2373000" />
-      <workItem from="1588830232775" duration="4001000" />
+      <workItem from="1588830232775" duration="4560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10757000" />
+    <option name="totallyTimeSpent" value="11316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2573471" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2573471" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -377,7 +257,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4957699" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37732658" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16920474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -567,17 +447,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="44" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="126">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <marker date="1588835741686" expanded="true" signature="1154:1555" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1206:1549" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1257:1549" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1311:1549" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1371:1549" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1437:1549" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1490:1549" ph="..." />
+            <marker date="1588835741686" expanded="true" signature="1542:1549" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'%PUBLIC_URL%/resumeData.json',
+      url: `${process.env.PUBLIC_URL}` + '/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -41,6 +41,7 @@ class App extends Component {
 
   componentDidMount(){
     this.getResumeData();
+    console.log(`${process.env.PUBLIC_URL}`);
   }
 
   render() {
