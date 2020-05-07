@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Liang Chen",
+    "occupation":"Software engineer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "chenliangsjtu@gmail.com",
+    "phone": "412-251-1870",
+    "address":{
+      "street":"950 N Negley",
+      "city":"Pittsburgh",
+      "state":"PA",
+      "zip": "15206"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100017903616476",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/liang-chen-6a7512125/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/KongfuMan",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Pittsburgh",
+        "degree":"M.S. in Computer and Information Science",
+        "graduated":"April 2020",
+        "description":""
+      },
+      {
+        "school":"Shanghai Jiao Tong University",
+        "degree":"M.S. in Mechanical Engineering",
+        "graduated":"Sep 2010 - Jun 2013",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"University of Pittsburgh",
+        "title":"Software Engineer",
+        "years":"Feb 2019 - Present",
+        "description": "• Developed a native android app using Android SDK for collecting data derived from an kinetic sensor to detect steps and send color signal to smart glasses via Bluetooth. \n • Implemented the wrapper functions for local file system and Google Firebase to store data and modeled the data objects relevant to the application.\n• Created the Bluetooth connection and data transmission services using socket programming and multithread programming.\n• Utilized Android Studio to develop the UI for the application using MVC design pattern.\n• Developed website using React to authenticate clinician, fetch and save patient data in firebase.\n• Utilized multithread and asynchronous concept to optimize write operation and increased efficiency by 90%."
+      },
+      {
+        "company":"Bosch, BT Cloud Based Services Division",
+        "title":"Software Engineer Intern",
+        "years":"May 2019 - Aug 2019",
+        "description": "• Developed a new feature for processing the training data for machine learning model and saving it to AWS S3 and Microsoft Azure.\n • Created RESTful web services using Spring Boot and Hibernate, and implemented user authentication and authorization using Spring Security. \n • Developed web pages using EmberJS to collect and validate input data and send http requests to the backend, leading to an improved user experience.\n • Implemented unit test to achieve 90% code coverage using JUnit and Blackbox test to achieve automated integration test.\n • Integrated Sonarqube into the Continuous Integration and Delivery Pipeline for code quality and security analysis, improving the team efficiency of detecting bugs, vulnerabilities and code smells by 30%."
+      },
+      {
+        "company":"Tongyan Civil Engineering and Technology LLC.",
+        "title":"Software Engineer",
+        "years":"Apr 2014 - Apr 2017",
+        "description": "• Collaborated with a four member team to develop a desktop windows application for 3D geological modeling using C++ and Microsoft Foundation Class(MFC), and successfully provided services for 2 consulting projects.\n• Designed 3D geological model generation algorithm based on GeoStatistics, and implemented it using C++. \n • Implemented Triangular Surface Mesh represented by Half-Edge Data Structure and Mesh Operation Algorithm based on Computational Geometry."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"90%"
+      },
+      {
+        "name":"Spring Boot",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Clinic Reminder System",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
