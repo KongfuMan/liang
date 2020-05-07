@@ -5,7 +5,7 @@ class About extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var profilepic= "images/"+this.props.data.image;
+      var profilepic= `${process.env.PUBLIC_URL}` +"/images/"+this.props.data.image;
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
@@ -15,6 +15,7 @@ class About extends Component {
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
+    console.log("profilepic path: ", profilepic);
 
     return (
       <section id="about">
