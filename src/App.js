@@ -24,21 +24,32 @@ class App extends Component {
 
   }
 
-  getResumeData(){
-      alert(" PUBLIC_URL: "  + `${process.env.PUBLIC_URL}`);
-    $.getJSON({
-      url: `${process.env.PUBLIC_URL}` + '/resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
-        // alert(err);
-      }
-    });
-  }
+  // getResumeData(){
+  //     // alert(" PUBLIC_URL: "  + `${process.env.PUBLIC_URL}`);
+  //   $.getJSON({
+  //     url: `${process.env.PUBLIC_URL}` + '/resumeData.json',
+  //     dataType:'json',
+  //     cache: false,
+  //     success: function(data){
+  //       this.setState({resumeData: data});
+  //     }.bind(this),
+  //     error: function(xhr, status, err){
+  //       console.log(err);
+  //       // alert(err);
+  //     }
+  //   });
+  // }
+
+    getResumeData(){
+        // alert(" PUBLIC_URL: "  + `${process.env.PUBLIC_URL}`);
+        $.getJSON(
+            `${process.env.PUBLIC_URL}` + '/resumeData.json',
+            function(data){
+                console.log(data);
+                this.setState({resumeData: data});
+            }.bind(this)
+        );
+    }
 
   componentDidMount(){
     this.getResumeData();
