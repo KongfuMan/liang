@@ -25,7 +25,8 @@ class App extends Component {
   }
 
   getResumeData(){
-    $.ajax({
+      alert(" PUBLIC_URL: "  + `${process.env.PUBLIC_URL}`);
+    $.getJSON({
       url: `${process.env.PUBLIC_URL}` + '/resumeData.json',
       dataType:'json',
       cache: false,
@@ -34,14 +35,13 @@ class App extends Component {
       }.bind(this),
       error: function(xhr, status, err){
         console.log(err);
-        alert(err);
+        // alert(err);
       }
     });
   }
 
   componentDidMount(){
     this.getResumeData();
-    console.log(`${process.env.PUBLIC_URL}`);
   }
 
   render() {
