@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/liang/static/css/main.5facb584.chunk.css",
-    "main.js": "/liang/static/js/main.3458faad.chunk.js",
-    "main.js.map": "/liang/static/js/main.3458faad.chunk.js.map",
+    "main.js": "/liang/static/js/main.f9087b2f.chunk.js",
+    "main.js.map": "/liang/static/js/main.f9087b2f.chunk.js.map",
     "runtime-main.js": "/liang/static/js/runtime-main.95c88433.js",
     "runtime-main.js.map": "/liang/static/js/runtime-main.95c88433.js.map",
     "static/js/2.70e65c8e.chunk.js": "/liang/static/js/2.70e65c8e.chunk.js",
     "static/js/2.70e65c8e.chunk.js.map": "/liang/static/js/2.70e65c8e.chunk.js.map",
     "index.html": "/liang/index.html",
-    "precache-manifest.8cc62b44e4e2311a2fa7a2f3d13bdf44.js": "/liang/precache-manifest.8cc62b44e4e2311a2fa7a2f3d13bdf44.js",
+    "precache-manifest.2a9719d658c90af1d79f3add207101d6.js": "/liang/precache-manifest.2a9719d658c90af1d79f3add207101d6.js",
     "service-worker.js": "/liang/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/liang/static/css/main.5facb584.chunk.css.map",
     "static/js/2.70e65c8e.chunk.js.LICENSE.txt": "/liang/static/js/2.70e65c8e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.95c88433.js",
     "static/js/2.70e65c8e.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.3458faad.chunk.js"
+    "static/js/main.f9087b2f.chunk.js"
   ]
 }
