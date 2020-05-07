@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cfbbdd5bc81a94c39d21752fd417e74",
+    "revision": "30720e6c5aac16c91e422dcd9dd81c7e",
     "url": "/liang/index.html"
   },
   {
