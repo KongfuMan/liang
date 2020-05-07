@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/liang/precache-manifest.d223846510e79ba24e14f01038b26e09.js"
+  "/liang/precache-manifest.b02fd8166472e87d9a903655a488a716.js"
 );
 
 self.addEventListener('message', (event) => {
